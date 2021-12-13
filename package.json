@@ -1,0 +1,8 @@
+{
+  "name": "blockchain-js",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
